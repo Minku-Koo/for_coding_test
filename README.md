@@ -13,7 +13,8 @@
 
 
 **Study Planning**
+
 |Week No|Problems|
-|:---|---:|:---:|
-|1|[1019](https://www.acmicpc.net/problem/1019), [1024](https://www.acmicpc.net/problem/1024), [2606](https://www.acmicpc.net/problem/2606)|
-|왼쪽정렬|[1766](https://www.acmicpc.net/problem/1766), [2565](https://www.acmicpc.net/problem/2565)|
+|:---:|:---:|
+|1|[1019](https://www.acmicpc.net/problem/1019) / [1024](https://www.acmicpc.net/problem/1024) / [2606](https://www.acmicpc.net/problem/2606)|
+|2|[1766](https://www.acmicpc.net/problem/1766) / [2565](https://www.acmicpc.net/problem/2565)|
