@@ -25,8 +25,8 @@ int main(){
 
     for(int i = 0; i<link_num; i++){
         scanf("%d %d", &x, &y);
-        arr[x][y]  =  1;
-        arr[y][x]  =  1;
+        arr[x][y] = 1;
+        arr[y][x] = 1;
     }
     
     DFS(1, vertex_num);

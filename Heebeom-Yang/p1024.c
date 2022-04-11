@@ -34,7 +34,6 @@ int main() {
                 if(sum == N)
                     break;
             }
-            
         } else {
             if(remain == 0) {
                 int start = div - (L / 2);
