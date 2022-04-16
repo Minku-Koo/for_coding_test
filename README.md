@@ -18,3 +18,5 @@
 |:---:|:---:|
 |1|[1019](https://www.acmicpc.net/problem/1019) / [1024](https://www.acmicpc.net/problem/1024) / [2606](https://www.acmicpc.net/problem/2606)|
 |2|[1766](https://www.acmicpc.net/problem/1766) / [2565](https://www.acmicpc.net/problem/2565)|
+|3|[1074](https://www.acmicpc.net/problem/1074) / [1562](https://www.acmicpc.net/problem/1562)|
+
